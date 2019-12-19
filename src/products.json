@@ -1,42 +1,52 @@
 {
-  "products": [{
-    "title": "God Of War - PS4",
-    "price": "R$25",
-    "media": "/god-of-war.jpg"
-  },
+  "products": [
     {
+      "title": "God Of War - PS4",
+      "price": "R$25",
+      "media": "/god-of-war.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
       "title": "Until Dawn - PS4",
       "price": "R$15",
       "media": "/until-dawn.jpg"
     },
     {
+      "id": "3",
       "title": "GTA V - PS3",
       "price": "R$10",
       "media": "/gta-5-ps3.jpg"
     },
     {
+      "id": "4",
       "title": "Red Dead Redemption 2 - PS4",
       "price": "R$50",
       "media": "/red-dead-redemption-2.jpg"
     },
     {
+      "id": "5",
       "title": "WWE 2K19 - PS4",
       "price": "R$28",
       "media": "/wwe-2k19.png"
     },
     {
+      "id": "6",
       "title": "Mad Max - PS4",
       "price": "R$32",
       "media": "/mad-max.jpg"
     },
     {
+      "id": "7",
       "title": "Forza Horizon 3 - XBox One",
       "price": "R$10",
       "media": "/forza-horizon-3.jpg"
     },
     {
+      "id": "8",
       "title": "Assassins Creed 2 - PS3",
       "price": "R$21",
       "media": "/assassins-creed-2.jpg"
-    }]
+    }
+  ]
 }
