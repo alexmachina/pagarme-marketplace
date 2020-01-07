@@ -8,8 +8,8 @@ import ShoppingCartIcon from "@material-ui/icons/ShoppingCart";
 import Link from "@material-ui/core/Link";
 import { makeStyles } from "@material-ui/core/styles";
 import { connect } from "react-redux";
-import UnstyledLink from "components/UnstyledLink";
-import addProductToCartAction from "../../store/actions/addProductToCart";
+import UnstyledLink from "common/components/UnstyledLink";
+import addProductToCartAction from "common/store/cart/actions/addProductToCart";
 import data from "../../products.json";
 
 const useStyles = makeStyles(theme => ({

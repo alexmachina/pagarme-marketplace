@@ -5,7 +5,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import IconButton from "@material-ui/core/IconButton";
 import Badge from "@material-ui/core/Badge";
 import ShoppingCartIcon from "@material-ui/icons/ShoppingCart";
-import UnstyledLink from "../UnstyledLink";
+import UnstyledLink from "common/components/UnstyledLink";
 import { makeStyles } from "@material-ui/core/styles";
 import { connect } from "react-redux";
 import { productsInCartCountSelector } from "./selectors";

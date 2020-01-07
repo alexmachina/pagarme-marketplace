@@ -3,7 +3,7 @@ import Grid from "@material-ui/core/Grid";
 import Container from "@material-ui/core/Container";
 import { makeStyles } from "@material-ui/core/styles";
 import { Switch, Route } from "react-router-dom";
-import MarketplaceAppBar from "./components/MarketplaceAppBar";
+import MarketplaceAppBar from "common/components/MarketplaceAppBar";
 import Product from "./pages/product";
 import Home from "./pages/home";
 import Cart from "./pages/cart";

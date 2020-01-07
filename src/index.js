@@ -6,7 +6,7 @@ import { Provider } from "react-redux";
 import { ThemeProvider } from "@material-ui/core/styles";
 import theme from "./theme";
 import App from "./App";
-import configStore from "./store";
+import configStore from "./common/store";
 
 const store = configStore();
 

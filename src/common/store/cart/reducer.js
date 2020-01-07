@@ -1,4 +1,4 @@
-import { ADD_PRODUCT_TO_CART } from "../actionNames";
+import { ADD_PRODUCT_TO_CART } from "./actionNames";
 
 const initialState = {
   products: []
